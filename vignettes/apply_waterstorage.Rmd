@@ -1,0 +1,19 @@
+---
+title: "apply_waterstorage"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{apply_waterstorage}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+plot(iris)
+
+```
+

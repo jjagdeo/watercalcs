@@ -20,4 +20,4 @@ waterstorage = function(precip, evap, runoff, watershed_size) {
   # Storage is returned in units of cubic feet per year
 }
 
-# To check documentation: help(waterstorage.Rd) in command line (use devtools)
+# To check documentation: help(waterstorage) in command line (use devtools and roxygen2 first)
