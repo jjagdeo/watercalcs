@@ -1,6 +1,3 @@
-# Function describing water stored in a watershed/year using simplified inflow/outflow processes
-# Function assumptions: The user must provide watershed_size in square miles and precipitation, evaporation, and runoff in inches per year
-
 #'Water storage function
 #'
 #'Function describing water stored in a watershed/year using simplified inflow/outflow processes
